@@ -14,8 +14,7 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=TrinadhKatlagunta&theme=dark" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrinadhKatlagunta&show_icons=true&theme=react&rank_icon=github&border_radius=10%22%20alt=%22readme%20stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrinadhKatlagunta&layout=compact" alt="top langs" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=TrinadhKatlagunta&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrinadhKatlagunta&layout=compact" alt="Top languages" />
 </div>
